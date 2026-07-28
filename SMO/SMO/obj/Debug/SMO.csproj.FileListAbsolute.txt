@@ -1,0 +1,10 @@
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\bin\Debug\SMO.exe.config
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\bin\Debug\SMO.exe
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\bin\Debug\SMO.pdb
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.csproj.AssemblyReference.cache
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.Form1.resources
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.Properties.Resources.resources
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.csproj.GenerateResource.cache
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.csproj.CoreCompileInputs.cache
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.exe
+C:\Users\merli\Saved Games\Desktop\4 семестр\ТИПИС\SMO\SMO\obj\Debug\SMO.pdb
